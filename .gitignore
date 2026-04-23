@@ -1,4 +1,24 @@
+# Node modules
 node_modules/
+
+# Env files
 .env
+khoj_server/.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
 .DS_Store
-npm-debug.log
+
+# Build folders
+dist/
+build/
+
+# Vite
+khoj_client/dist/
+
+# IDE
+.vscode/
